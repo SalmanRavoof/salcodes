@@ -1,0 +1,78 @@
+.button {
+    padding: 15px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.button:hover {
+	background-color: #5333ed;
+}
+
+.green {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+}
+
+.kinsta-blue {
+  background-color: #FFF3ED;
+  border: none;
+  color: white;
+}
+
+.red {
+  background-color: #f44336;
+  border: none;
+  color: white;
+}
+
+.gray {
+  background-color: #e7e7e7; 
+  border: none;
+  color: black;
+}
+
+.black {
+  background-color: #555555;
+  border: none;
+  color: white;
+}
+
+.blue {
+	background-color: blue;
+	border: none;
+  	color: white;
+}
+
+.red {
+	background-color: red;
+ 	border: none;
+  	color: white;
+}
+
+.orange {
+	background-color: orange;
+	border: none;
+	color: white;
+}
+
+.big {
+	padding: 10px 30px;
+	font-size: 36px;
+}
+
+.small {
+	padding: 5px 15px;
+	font-size: 12px;
+}
+
+.salcodes-boxed-title>h3, .salcodes-boxed-content>p {
+	padding: 10px 20px;
+	margin-bottom: 0;
+}
+
+.salcodes-boxed {
+	margin-bottom: 1.4em;
+}
