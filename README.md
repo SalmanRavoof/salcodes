@@ -1,5 +1,5 @@
 # salcodes
-A WordPress plugin to show how shortcodes work. 3 different examples with increasing complexities are used to demonstrate how different types of shortcodes are created. 
+A WordPress plugin to show how shortcodes work. 3 unique examples with increasing complexities are used to demonstrate how different types of shortcodes are created. 
 
 ## Output the Current Year
 Shortcode Tag: [current_year]
