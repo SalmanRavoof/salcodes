@@ -3,7 +3,7 @@
 /*
 Plugin Name: 	Salcodes
 Version: 		1.0
-Description: 	Output the current year in your WordPress site.
+Description: 	Three examples to showcase how Shortcodes work in WordPress.
 Author: 		Salman Ravoof
 Author URI: 	https://www.salmanravoof.com/
 License:		GPLv2 or later
