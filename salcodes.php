@@ -2,11 +2,11 @@
 
 /*
 Plugin Name: 	Salcodes
-Version: 		1.0
+Version: 	1.0
 Description: 	Three examples to showcase how Shortcodes work in WordPress.
-Author: 		Salman Ravoof
+Author: 	Salman Ravoof
 Author URI: 	https://www.salmanravoof.com/
-License:		GPLv2 or later
+License:	GPLv2 or later
 License URI:	https://www.gnu.org/licenses/gpl-2.0.html
 Text Domain: 	salcodes
 */
@@ -79,4 +79,3 @@ function salcodes_enqueue_scripts() {
 add_action( 'wp_enqueue_scripts', 'salcodes_enqueue_scripts');
 
 ?>
-
