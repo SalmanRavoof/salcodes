@@ -1,5 +1,5 @@
 # salcodes
-A WordPress plugin to show how shortcodes work. This demo plugin is a companion piece to [Kinsta's ultimate guide on shortcodes](https://kinsta.com/blog/wordpress-shortcodes/). It includes 3 unique examples with increasing complexities are used to demonstrate how different types of shortcodes are created. 
+A WordPress plugin to show how shortcodes work. This demo plugin is a companion piece to [Kinsta's ultimate guide on shortcodes](https://kinsta.com/blog/wordpress-shortcodes/). It includes 3 unique examples with increasing complexities, demonstrating how different types of shortcodes are created. 
 
 ## 1. Output the Current Year
 - **Shortcode Tag:** [current_year]
